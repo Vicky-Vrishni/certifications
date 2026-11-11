@@ -1,2 +1,2 @@
 # certifications
-Introduction to Machine Learning, C++, DSA, Python
+Introduction to Machine Learning by NPTEL
